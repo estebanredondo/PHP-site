@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.entete {
+    height: 100px;
+    width: 100%;
+}
+
+.boutona {
+    color: white;
+    border-radius: 200px;
+    width: 125px;
+    height: 60px;
+    position: absolute;
+    top: 5px;
+    left: 30px;
+}
+
+.boutonb {
+    color: white;
+    border-radius: 200px;
+    width: 125px;
+    height: 60px;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+}
+
+.bande {
+    width: 100%;
+    height: 100%;
+    border-top: 3px solid black;
+}
+
+.menu {
+    padding: 10px;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+}
+
+.categorie {
+    margin-top: 10px;
+}
+
+.banniere {
+    width: 100%;
+    height: 100%;
+}
+
+.fenetre {
+    margin: 25px;
+    background-color: rgb(66, 163, 109);
+    padding: 10px;
+}
+
+.fenetrelaterale {
+    margin: 25px;
+}
+
+.burger {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+.dernierart {
+    margin-top: 10px;
+    padding: 20px;
+    height: 100%;
+}
+
+.bandeverticale {
+    float: left;
+    position: absolute;
+    left: 0;
+}
+
+.ligne {
+    margin: 30px;
+    text-align: center;
+}
+
+.article {
+    border-radius: 50px;
+}
+
+.titrederart {
+    font-weight: bold;
+}
+
+.texteart {
+    padding: 10px;
+}
+
+.piedart {
+    font-size: 0.6rem;
+}
+
+.articlesdumoment {
+    background-color: rgb(20, 20, 136);
+}
+
+.titreadm {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    width: 400px;
+    background-color: rgb(66, 163, 109);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageadm1 {
+    height: 400px;
+    background-image: url(../img/visage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imageadm2 {
+    height: 400px;
+    background-image: url(../img/c.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imageadm3 {
+    height: 400px;
+    background-image: url(../img/dark.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imageadm4 {
+    height: 400px;
+    background-image: url(../img/wtf.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    background-color: rgb(66, 163, 109);
+}
+
+.menufooter {
+    padding: 20px;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
